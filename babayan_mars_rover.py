@@ -13,4 +13,4 @@ def fetchMars(date):
   ans = (response)
   return ans['photos'][:3]
 
-fetchMars('2022-11-22')
+fetchMars('2022-11-20')
